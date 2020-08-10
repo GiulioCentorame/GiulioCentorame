@@ -1,8 +1,8 @@
 ### Hi! I am Giulio, a researcher based in London, UK 
 
 - My main interests are in quantitative genetics, epidemiology, and psychiatric nosology. You can find more information about my research and academic credentials on my [website][website].
-- I am currently accepting gigs! You can find my résumé [here][https://raw.githubusercontent.com/GiulioCentorame/latex_resume/master/Sample_Resume.pdf].
-- I maintain a self-learning resource list. You can find it [here][https://giuliocentora.me/resources/]. Hope you can find it useful!
+- I am currently accepting gigs! You can find my résumé [here](https://raw.githubusercontent.com/GiulioCentorame/latex_resume/master/Sample_Resume.pdf).
+- I maintain a self-learning resource list. You can find it [here](https://giuliocentora.me/resources/). Hope you can find it useful!
 - My repositories represent my current/past research contribution I can freely publish. If you cannot find something I contributed to, contact me via email/DM!
 
 #### Contact me
@@ -10,7 +10,7 @@
 [<img align="left" alt="My email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="giuliocentora.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@GiulioCentorame | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Giulio Centorame| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Giulio Centorame | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -22,4 +22,4 @@
 [website]: https://giuliocentora.me/
 [twitter]: https://twitter.com/GiulioCentorame
 [linkedin]: https://www.linkedin.com/in/giuliocentorame/
-[email]: <a href='mailto&#58;%67iu%6&#67;io&#46;%6&#51;entor&#97;%6D%65&#37;&#52;0outlook&#46;it'>&#103;&#105;&#117;li&#111;&#46;&#99;&#101;ntoram&#101;&#64;ou&#116;loo&#107;&#46;&#105;t</a>
+[email]: mailto:giulio.centorame@outlook.it
