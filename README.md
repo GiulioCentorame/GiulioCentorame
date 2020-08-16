@@ -30,7 +30,7 @@ No Activity tracked this Week
 <!-- START_SECTION:github_stats -->
 <!-- from: https://github.com/anuraghazra/github-readme-stats -->
 
-<img align="left" alt="Giulio Centorame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GiulioCentorame&count_private=true&show_icons=true&theme=gruvbox" />
+<img align="left" alt="Giulio Centorame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GiulioCentorame&count_private=true&show_icons=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioCentorame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
