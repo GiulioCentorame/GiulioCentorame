@@ -13,12 +13,20 @@
 [<img align="left" alt="Giulio Centorame | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
 ---
 
-<!-- Github stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+---
+
+<!-- START_SECTION:github_stats -->
+<!-- from: https://github.com/anuraghazra/github-readme-stats -->
 
 <img align="left" alt="Giulio Centorame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GiulioCentorame&show_icons=true&hide_border=true" />
+
+<!-- END_SECTION:github_stats -->
 
 <!-- Extra fields -->
 
