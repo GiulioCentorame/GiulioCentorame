@@ -13,7 +13,9 @@
 [<img align="left" alt="Giulio Centorame | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 ---
+#### My programming week
 
 <!--START_SECTION:waka-->
 ```text
@@ -22,6 +24,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <br />
+
 ---
 
 <!-- START_SECTION:github_stats -->
