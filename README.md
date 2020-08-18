@@ -19,7 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        13 mins         ███████████▒░░░░░░░░░░░░░   45.56 % 
+Markdown     10 mins         ████████▓░░░░░░░░░░░░░░░░   34.51 % 
+Emacs Lisp   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+R            1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Git          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 <!--END_SECTION:waka-->
 
