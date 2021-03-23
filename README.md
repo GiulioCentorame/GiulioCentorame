@@ -1,7 +1,7 @@
 ### Hi! I am Giulio, a researcher based in London, UK 
 
-- My main interests are in quantitative genetics, epidemiology, and psychiatric nosology. You can find more information about my research and academic credentials on my [website][website].
-- I am currently accepting gigs! You can find my résumé [here](https://raw.githubusercontent.com/GiulioCentorame/latex_resume/master/Sample_Resume.pdf).
+- My main interests are in statistical genetics, epidemiology, and psychiatric nosology. You can find more information about my research and academic credentials on my [website][website].
+- You can find my résumé [here](https://raw.githubusercontent.com/GiulioCentorame/latex_resume/master/Sample_Resume.pdf).
 - I maintain a self-learning resource list. You can find it [here](https://giuliocentora.me/resources/). Hope you can find it useful!
 - My repositories represent my current/past research contribution I can freely publish. If you cannot find something I contributed to, contact me via email/DM!
 
@@ -45,4 +45,4 @@ Git          1 min           █░░░░░░░░░░░░░░░░
 [website]: https://giuliocentora.me/
 [twitter]: https://twitter.com/GiulioCentorame
 [linkedin]: https://www.linkedin.com/in/giuliocentorame/
-[email]: mailto:giulio.centorame@outlook.it
+[email]: mailto:giulio.centorame@bristol.ac.uk
