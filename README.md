@@ -30,8 +30,7 @@ Org   15 hrs 38 mins  ███████████████████�
 <!-- START_SECTION:github_stats -->
 <!-- from: https://github.com/anuraghazra/github-readme-stats -->
 
-<img align="left" alt="Giulio Centorame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GiulioCentorame&count_private=true&show_icons=true" />
-
+![Giulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulioCentorame&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioCentorame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- END_SECTION:github_stats -->
