@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Org   6 hrs 48 mins   █████████████████████████   100.00 % 
+Org        1 hr 33 mins    ████████████████████████▓   99.11 % 
 ```
 <!--END_SECTION:waka-->
 
