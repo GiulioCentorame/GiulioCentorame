@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Org        1 hr 33 mins    ████████████████████████▓   99.11 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
