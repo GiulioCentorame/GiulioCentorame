@@ -1,4 +1,4 @@
-### Hi! I am Giulio, a researcher based in Brisbane, UK 
+### Hi! I am Giulio, a researcher based in Brisbane, QLD
 
 - My main interests are in statistical genetics, epidemiology, and psychiatric nosology. You can find more information about my research and academic credentials on my [website][website].
 - You can find my résumé [here](https://raw.githubusercontent.com/GiulioCentorame/latex_resume/master/Sample_Resume.pdf).
