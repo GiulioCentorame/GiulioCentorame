@@ -19,8 +19,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Org          1 hr 58 mins    ████████████████░░░░░░░░░   64.12 % 
-Emacs Lisp   1 hr 6 mins     █████████░░░░░░░░░░░░░░░░   35.88 % 
+Org          1 hr 48 mins    ███████████████▓░░░░░░░░░   62.02 % 
+Emacs Lisp   1 hr 6 mins     █████████▒░░░░░░░░░░░░░░░   37.98 % 
 ```
 <!--END_SECTION:waka-->
 
