@@ -19,8 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Emacs Lisp   45 mins         █████████████▓░░░░░░░░░░░   54.65 % 
-Org          37 mins         ███████████▒░░░░░░░░░░░░░   45.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
