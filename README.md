@@ -19,7 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Emacs Lisp   1 hr 23 mins    ███████████████▒░░░░░░░░░   61.73 % 
+Org          49 mins         █████████░░░░░░░░░░░░░░░░   36.45 % 
+Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
 
