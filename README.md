@@ -19,11 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-R           34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
-Git         29 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.73 % 
-YAML        25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 % 
-Snakemake   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-RMarkdown   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
